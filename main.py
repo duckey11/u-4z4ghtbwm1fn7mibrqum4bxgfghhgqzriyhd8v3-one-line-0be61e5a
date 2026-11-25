@@ -8,7 +8,7 @@ Python standard library only; no network, no secrets.
 
 import os
 
-LINE = "My cheap umbrella flips inside out in the wind, so I now own a very small, very wet kite."
+LINE = "My cheap umbrella flips inside out in the wind, so I now own a very small, very wet kite with no string attached."
 
 
 def main():
